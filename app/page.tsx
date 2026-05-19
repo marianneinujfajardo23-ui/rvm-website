@@ -31,7 +31,7 @@ export default function Home() {
       >
 
         <img
-          src="/images/logo.jpg"
+          src="/Images/logo.jpg"
           className="w-40 h-40 object-contain mb-8"
         />
 
@@ -130,7 +130,7 @@ export default function Home() {
             <div className="bg-gray-900 border border-gray-800 rounded-3xl p-8 text-center">
 
               <img
-                src="/images/marianne.jpg"
+                src="/Images/marianne.jpg"
                 className="w-40 h-40 rounded-full object-cover mx-auto border-4 border-green-400 mb-6"
               />
 
@@ -152,7 +152,7 @@ export default function Home() {
             <div className="bg-gray-900 border border-gray-800 rounded-3xl p-8 text-center">
 
               <img
-                src="/images/renz.jpg"
+                src="/Images/renz.jpg"
                 className="w-40 h-40 rounded-full object-cover mx-auto border-4 border-green-400 mb-6"
               />
 
@@ -174,7 +174,7 @@ export default function Home() {
             <div className="bg-gray-900 border border-gray-800 rounded-3xl p-8 text-center">
 
               <img
-                src="/images/bianca.jpg"
+                src="/Images/bianca.jpg"
                 className="w-40 h-40 rounded-full object-cover mx-auto border-4 border-green-400 mb-6"
               />
 
@@ -196,7 +196,7 @@ export default function Home() {
             <div className="bg-gray-900 border border-gray-800 rounded-3xl p-8 text-center">
 
               <img
-                src="/images/ana.jpg"
+                src="/Images/ana.jpg"
                 className="w-40 h-40 rounded-full object-cover mx-auto border-4 border-green-400 mb-6"
               />
 
@@ -218,7 +218,7 @@ export default function Home() {
             <div className="bg-gray-900 border border-gray-800 rounded-3xl p-8 text-center">
 
               <img
-                src="/images/sean.jpg"
+                src="/Images/sean.jpg"
                 className="w-40 h-40 rounded-full object-cover mx-auto border-4 border-green-400 mb-6"
               />
 
@@ -264,7 +264,7 @@ export default function Home() {
               </h3>
 
               <img
-                src="/images/phase1.jpg"
+                src="/Images/phase1.jpg"
                 className="w-full h-[400px] object-cover rounded-2xl mb-8"
               />
 
@@ -284,7 +284,7 @@ export default function Home() {
               </h3>
 
               <img
-                src="/images/phase2.jpg"
+                src="/Images/phase2.jpg"
                 className="w-full h-[400px] object-cover rounded-2xl mb-8"
               />
 
@@ -303,7 +303,7 @@ export default function Home() {
               </h3>
 
               <img
-                src="/images/phase3.jpg"
+                src="/Images/phase3.jpg"
                 className="w-full h-[400px] object-cover rounded-2xl mb-8"
               />
 
@@ -351,7 +351,7 @@ export default function Home() {
               </h3>
 
               <img
-                src="/images/phase5.jpg"
+                src="/Images/phase5.jpg"
                 className="w-full h-[400px] object-cover rounded-2xl mb-8"
               />
 
